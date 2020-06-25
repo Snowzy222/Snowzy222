@@ -1,6 +1,9 @@
 a{
-  color:red;
+  color:blue;
 }
 body{
   text-align: center;
 }
+html{color:red;
+}
+body{background-color: blue}
